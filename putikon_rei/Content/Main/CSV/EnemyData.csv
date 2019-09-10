@@ -1,0 +1,4 @@
+﻿0,Number,Name,HP,ATK,MoveSpeed,FirstNum,NestTime,MAXNUM,NestHP,AttackType
+1,1,スライム,10,1,10,5,2,15,20,近距離
+2,2,トカゲ,15,1,10,8,2,10,20,近距離
+3,3,オトマタ,10,1,10,5,2,10,20,近距離
